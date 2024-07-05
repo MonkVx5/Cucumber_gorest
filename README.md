@@ -14,3 +14,8 @@ Prepare in any language, using cucumber, tests for create user operation from pr
 - validate if user was correctly created and exists in valid case
 - apply assertion in the API response
 - place all code in git repository
+
+
+ToDo:
+solve security issue (plain token)
+positive case as a table
